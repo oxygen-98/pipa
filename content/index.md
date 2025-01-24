@@ -1,6 +1,6 @@
 ---
-title: Welcome to Quartz
+title: Welcome to archive
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+Здесь совсем немного обо мне пип - пип
+[[Экономика]]
